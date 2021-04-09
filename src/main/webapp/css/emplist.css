@@ -1,0 +1,28 @@
+@charset "EUC-KR";
+
+#name{
+	text-align: center;
+}
+
+.emp_table{
+	margin: auto;
+	width: 800px;
+	height: 600px;
+	border: 1px solid #ccc;
+	border-top:2px solid red;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.emp_table td{
+	border: 1px solid #ccc;
+	padding:10px;
+	text-align: center;
+}
+
+.iam{
+	background-color: #cacece;
+	font-size: 18px;
+	font: bolder;
+	color : black;
+}
